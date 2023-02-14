@@ -1,4 +1,4 @@
-package com.epam.mentorship;
+package com.epam.rdactivities;
 
 import org.junit.jupiter.api.Test;
 
